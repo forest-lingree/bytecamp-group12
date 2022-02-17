@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25bf96c5-acd0-4577-976e-987058129563" name="byteCamp12">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="180.184.67.164" port="22" sshConfigId="f41880ec-a336-43ee-92cc-72c779c85bd5" sshConfig="root@180.184.67.164:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
